@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\epanet.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\epanet2.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\genmmd.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\hash.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\hydcoeffs.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\hydraul.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\hydsolver.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\hydstatus.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\inpfile.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\input1.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\input2.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\input3.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\mempool.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\output.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\project.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\quality.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\qualreact.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\qualroute.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\report.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\rules.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\smatrix.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\util\cstr_helper.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\util\errormanager.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\util\filemanager.c">
+      <Filter>Library</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\enumstxt.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\funcs.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\hash.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\mempool.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\text.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\types.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\util\cstr_helper.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\util\errormanager.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\util\filemanager.h">
+      <Filter>Library</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\errors.dat">
+      <Filter>Library</Filter>
+    </None>
+    <None Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\outfile">
+      <Filter>Library</Filter>
+    </None>
+    <None Include="C:\Users\becky\OneDrive\Documents\GitHub\EPANET\src\util">
+      <Filter>Library</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Library">
+      <UniqueIdentifier>{ADDFCCB7-9C99-3A90-8E83-BE769A56E0B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

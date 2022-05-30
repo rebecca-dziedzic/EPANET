@@ -1,0 +1,5 @@
+C:/Users/becky/OneDrive/Documents/GitHub/EPANET/CMakeFiles/epanet2.dir
+C:/Users/becky/OneDrive/Documents/GitHub/EPANET/CMakeFiles/ALL_BUILD.dir
+C:/Users/becky/OneDrive/Documents/GitHub/EPANET/CMakeFiles/ZERO_CHECK.dir
+C:/Users/becky/OneDrive/Documents/GitHub/EPANET/run/CMakeFiles/runepanet.dir
+C:/Users/becky/OneDrive/Documents/GitHub/EPANET/src/outfile/CMakeFiles/epanet-output.dir
